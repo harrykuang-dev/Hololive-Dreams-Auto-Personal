@@ -1,7 +1,8 @@
 
 
-基於https://github.com/mwty-0415/Hololive-Dreams-Auto-High-Low開發和測試一些亂七八糟的功能
-留牌阶段的识牌与策略计算来自项目https://github.com/Oreki0504/hololive-dreams-helper
+基於https://github.com/mwty-0415/Hololive-Dreams-Auto-High-Low 開發和測試一些亂七八糟的功能
+
+比大小游戲留牌阶段的识牌与策略计算来自项目https://github.com/Oreki0504/hololive-dreams-helper
 # Hololive Dreams Auto Bot
 
 [简体中文](#-简体中文) | [繁體中文](#-繁體中文) | [English](#-english) | [日本語](#-日本語)
